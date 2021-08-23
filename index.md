@@ -1,7 +1,7 @@
 ---
 title: Jeff Korenstein Personal Website
 author: Jeff Korenstein
-description: "A quick website description"
+description: "A software engineer ready to deliver web apps"
 layout: default
 permalink: /
 ---
