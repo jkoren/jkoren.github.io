@@ -1,6 +1,6 @@
 ---
-title: Your Website
-author: Your Name Here
+title: Jeff Korenstein Personal Website
+author: Jeff Korenstein
 description: "A quick website description"
 layout: default
 permalink: /
