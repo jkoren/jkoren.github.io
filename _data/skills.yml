@@ -1,36 +1,36 @@
 header: Consulting, Software Development, Business Consulting
 
-subheader: A mix of technical skills and business experience
+subheader: A mix of technical skills and real-world business experience.
 
 skill_list:
   - name: Software Development
     description: Building and deploying complex web sites
 
   - name: Business Experience
-    description: Years in sales for software companies has given me exposure to many business processes.
+    description: Years in sales of software, technical services, and telecommunications give me background in many business processes.
 
 #   - name: Skill 3
 #     description: A quick sentence or two describing your skill
 
 #If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+# certifications:
+#   - name: Certification 1
+#     topics:
+#       - Topic 1A
+#       - Topic 1B
+#       - Topic 1C
+#       - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
+#   - name: Certification 2
+#     topics:
+#       - Topic 2A
+#       - Topic 2B
+#       - Topic 2C
+#       - Topic 2D
 
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+#   - name: Certification 3
+#     topics:
+#       - Topic 3A
+#       - Topic 3B
+#       - Topic 3C
+#       - Topic 3D
