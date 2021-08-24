@@ -1,13 +1,6 @@
-LinkedIn
-https://www.linkedin.com/in/jkorenst/
-linkdin_username: /
+linkdin_username: jkorenst
+github_username: jkoren
+email: j.korenstein@gmail.com
+github_repo: jkoren.github.io
 
-#GitHub
-#https://github.com/{{GitHubUsername}}
-github_username: / jkoren
 
-#https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: / jkoren.github.io
-
-#The email you'd like people to contact you with.
-email: / j.korenstein@gmail.com
