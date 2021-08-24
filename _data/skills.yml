@@ -1,16 +1,16 @@
-header: Say something about what you're good at
+header: Consulting, Software Development, Business Consulting
 
-subheader: Give some more context
+subheader: A mix of technical skills and business experience
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Software Development
+    description: Building and deploying complex web sites
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Business Experience
+    description: Years in sales for software companies has given me exposure to many business processes.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+#   - name: Skill 3
+#     description: A quick sentence or two describing your skill
 
 #If you have certifications, talk about them here
 certifications:
