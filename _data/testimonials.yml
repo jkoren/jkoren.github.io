@@ -1,14 +1,15 @@
-- quote: I wanted to let you know that we finally launched Adopt-a-Drain last night, and as of this morning, 44 drains have been adopted around Medford! Congratulations! You guys have put in so much work to make this happen.
-  person:
-    name: Anna Cornish
-    title: Office of Planning, Development, and Sustainability, Medford City Hall
     
 - quote: I had the pleasure of working with Jeff Korenstein on a volunteer project in Q4 2020-Q1 2021... He was always a reliable, active member of the team and his contributions helped us complete the project in a timely way. Jeff learned the project quickly and was willing to learn on his own in order to complete assigned work. I would be happy to work with him again
   person:
     name: Jed Pittman
     title: Data Engineer, Lead, SemanticBits
-
-- quote: Holy shit dude, this is awesome.
+    
+- quote: I wanted to let you know that we finally launched Adopt-a-Drain last night, and as of this morning, 44 drains have been adopted around Medford! Congratulations! You guys have put in so much work to make this happen.
   person:
-    name: u/Shreddy_Brewski re Gamedaymatchup.net
+    name: Anna Cornish
+    title: Office of Planning, Development, and Sustainability, Medford City Hall
+    
+- quote: Holy shit dude, this is awesome.  (re Gamedaymatchup.net)
+  person:
+    name: u/Shreddy_Brewski 
     title: Reddit
