@@ -1,8 +1,8 @@
 - name: JG - Waybetter.com
-  description: Tested processes for setting up development instance for new developers after two year break from bringing on new developers. stack - React, Ruby/Rails, Node.js, GraphQL, Docker)
+  description: Tested processes for setting up development instance for new developers after two year break from bringing on new developers. stack - React, Ruby/Rails, Node.js, GraphQL, Docker
 
 - name: JG - Connect
-  description: Building from Adobe XD designs, developed and deployed components to allow employees to showcase their skills on their individual profiles. stack - Grandstack GraphQL/React/Apollo/Neo4j database)
+  description: Building from Adobe XD designs, developed and deployed components to allow employees to showcase their skills on their individual profiles. stack - Grandstack GraphQL/React/Apollo/Neo4j database
 
 - name: JG - Connect
   description: Architected and implemented connector between Tense (time and project management - SQL) and Connect (individual employee profiles - GraphQL/Neo4j). stack - Grandstack GraphQL/React/Apollo/Neo4j database 
@@ -14,7 +14,7 @@
   description: A web tool for the NFL football fan to visualize the individual player matchups in current and upcoming games and drill into the stats for teams and individual players. 32 teams, 256 games, 1,696 players, 28,832 player starts per season. stack - React, Ruby/Rails, PostgreSQL, Material UI
 
 - name: MyHome
-  description: Designed and implemented for residents and homeowners to get the most from the technology in their house, condo or apartment.  Users download and store product manuals via automated data extraction from online manuals library. Residents can add appliances and find highly rated local service providers via API integration with Yelp.Built with React/JavaScript, Rails/Ruby and PostgreSQL. stack - React, Ruby/Rails, PostgreSQL, Foundation
+  description: Designed and implemented for residents and homeowners to get the most from the technology in their house, condo or apartment.  Users download and store product manuals via automated data extraction from online manuals library. Residents can add appliances and find highly rated local service providers via API integration with Yelp.  stack - React, Ruby/Rails, PostgreSQL, Foundation
 
 - name: Adopt-a-Drain
   description: Residents can adopt one or more of Medford’s 4,700+ storm drains (also called catch basins). By pledging to keep their drains free of leaves and debris, residents  join their neighbors in helping to protect the environment, manage stormwater, and minimize flooding. stack - Ruby/Rails, Docker 
